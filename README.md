@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Aldo, a second-year university student from the University of Indonesia. <br>I have a keen interest in machine learning and web development.<br><br>My current gigs/projects:<br>1. A try-out & practice website for a tutoring business <br>2. A project report website for an Indonesian final year student's Community Service Program<br>3. An E-commerce website for a the Platform-based programming that I am taking
+Hello, I'm Aldo, a second-year university student from the University of Indonesia. <br>I have a keen interest in machine learning and web development.<br><br>My current gigs/projects:<br>1. A try-out & practice website for a tutoring business <br>2. A project report website for an Indonesian final year student's Community Service Program<br>3. An E-commerce website for a the Platform-based programming that I am taking<br>4. The mobile version of siad E-commerce website for a the Platform-based programming that I am taking<br>5. A company profile and catalogue website for a local company in Batam
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@ Hello, I'm Aldo, a second-year university student from the University of Indones
 ---
 [![](https://visitcount.itsvg.in/api?id=aldofahrezy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## ☕️ Buy me a Coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aldofahrezy) 
 
   
